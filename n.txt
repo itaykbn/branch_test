@@ -1,2 +1,6 @@
 hello 
 help 
+<<<<<<< HEAD
+=======
+bye
+>>>>>>> my_feat
