@@ -1,3 +1,6 @@
+print("hello")
+
+
 class Voice:
     voice_dictionary = {
         "Cat": "meow",
