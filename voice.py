@@ -1,6 +1,5 @@
 print("hello")
-<<<<<<< HEAD
-=======
+
 
 
 class Voice:
@@ -53,4 +52,4 @@ class Voice:
         this_name = self._kind
         print("{} i'm a {}\nhello {}, {}\n{}".format(self.voice_dictionary[other_name], other_name, this_name, msg,
                                                      self.voice_dictionary[other_name]))
->>>>>>> my_feat
+
