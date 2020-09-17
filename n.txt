@@ -1,4 +1,3 @@
 hello 
 help 
-bye
 
