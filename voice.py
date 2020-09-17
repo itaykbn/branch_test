@@ -1,5 +1,7 @@
 print("hello")
 
+print("hello")
+
 
 class Voice:
     voice_dictionary = {
